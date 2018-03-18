@@ -12,5 +12,8 @@ Run the program. To exit; press the systray icon.
 | Ctrl + Alt + Arrow Left | Previous song |
 | Ctrl + Alt + Arrow Right | Next song |
 
+## How does it work?
+Read the cod-- but generally; it controls the Windows volume mixer, not the Spotify application's internal volume. Soo set the volume to about 50% in the Spotify application.
+
 ### Got an idea? Create a issue.
 ### Program not working? Create a issue.
